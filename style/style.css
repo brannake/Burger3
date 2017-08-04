@@ -1,0 +1,57 @@
+#home-container {
+	position: absolute;
+	top: 0px;
+	left: 20%;
+	width: 1280px;
+	height: 960px;
+	background: purple;
+	color: white;
+}
+
+#login-div {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 80px;
+}
+
+#login-username {
+	position: absolute;
+	top: 20px;
+	right: 290px;
+	color: blue;
+}
+
+#login-password {
+	position: absolute;
+	top: 20px;
+	right: 100px;
+	color: blue;
+}
+
+#login-submit {
+	position: absolute;
+	top: 20px;
+	right: 30px;
+	color: blue;
+}
+
+#home-prompt-1 {
+	position: absolute;
+	top: 18%;
+	left: 24%;
+	font-size: 40px;
+	font-weight: lighter;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+#home-prompt-2 {
+	position: absolute;
+	top: 26%;
+	left: 28%;
+	font-size: 40px;
+	font-weight: lighter;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
